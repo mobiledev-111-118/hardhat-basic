@@ -6,7 +6,7 @@ yarn-error.log*
 hardhat.config.js*
 /test/unit/coverage/
 /test/e2e/reports/
-
+secrets.json
 # Editor directories and files
 .idea
 .vscode
